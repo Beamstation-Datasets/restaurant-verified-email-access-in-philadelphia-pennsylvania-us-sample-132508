@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Philadelphia, Pennsylvania, US",
+  "export_job_id": "735319ae-a768-4a6d-b75a-5b602bfb466b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 132508,
+  "location_name": "Philadelphia",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-philadelphia-pennsylvania-us-sample-132508",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/132508/beamstation_132508_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 0.72,
+  "sample_records": 10,
+  "sample_sha256": "bec2d1a318d0fe8875e1aaeff4611b3e96e861aa2582f2b1a82f28273c88018d",
+  "sample_size_bytes": 57981,
+  "total_records": 1386,
+  "updated_at": "2026-04-01T00:56:00.663055+00:00"
+}
