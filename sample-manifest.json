@@ -1,0 +1,12 @@
+{
+  "export_job_id": "735319ae-a768-4a6d-b75a-5b602bfb466b",
+  "id_short": 132508,
+  "published_at": "2026-04-10T19:12:01Z",
+  "repo_name": "restaurant-verified-email-access-in-philadelphia-pennsylvania-us-sample-132508",
+  "sample_asset_name": "beamstation_132508_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/132508/beamstation_132508_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "bec2d1a318d0fe8875e1aaeff4611b3e96e861aa2582f2b1a82f28273c88018d",
+  "sample_size_bytes": 57981,
+  "total_records": 1386
+}
